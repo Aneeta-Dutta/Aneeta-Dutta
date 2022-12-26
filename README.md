@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 <p>
     <font size="4">
-      👋 Hi, I’m @Aneeta-Dutta <br/>
       💻 Aspiring Software Developer <br/>
       📚 Actively learning Machine Learning techniques <br/>
       🙌 Open to collaborate
