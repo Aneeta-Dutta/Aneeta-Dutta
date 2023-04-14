@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>
     <font size="4">
-      💻 Aspiring Software Developer <br/>
+      💻 Associate Software Engineer <br/>
       📚 Actively learning Machine Learning techniques <br/>
       🙌 Open to collaborate
     </font>
